@@ -1,0 +1,28 @@
+.heading{
+    font-size: 25px;
+    width: 30%;
+    margin:0px;
+}
+body{
+    background-size:cover;
+}
+.song_name_img{
+    width:100px;
+    border-radius:100px;
+    margin-left:10px;
+    margin-right:10px;
+}
+#volume{
+    font-size:25px;
+    width:100px;
+    height:100px;
+    margin:15px;
+}
+#play , #stop{
+    width:80px;
+    font-size:25px;
+}
+canvas{
+    border: 5px solid rgb(145, 255, 229);
+    border-radius:20px;
+}
